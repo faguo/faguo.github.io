@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-21T11:48:32.566Z</updated>
+  <updated>2019-05-06T09:44:00.975Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>&#39;my-first-post&#39;</title>
-    <link href="http://yoursite.com/2019/04/11/my-first-post/"/>
-    <id>http://yoursite.com/2019/04/11/my-first-post/</id>
-    <published>2019-04-11T12:19:11.000Z</published>
-    <updated>2019-04-21T11:48:32.566Z</updated>
+    <title>my-second-post</title>
+    <link href="http://yoursite.com/2019/05/06/my-second-post/"/>
+    <id>http://yoursite.com/2019/05/06/my-second-post/</id>
+    <published>2019-05-06T09:20:40.000Z</published>
+    <updated>2019-05-06T09:44:00.975Z</updated>
     
-    <content type="html"><![CDATA[<p>##第一章<br>内容<br>                               一周总结<br>学了什么：<br>    C方面：</p><ol><li>首先弥补了之前一直畏惧的循环链表，双向链表（原先只学了单链表），当然还没有具体的运用，基础操作学了。</li><li>其次呢，数据结构，目前树结构学完了，准备一边学图，一边加强运用（目前来说最欠缺的是不能灵活运用到实际问题中，很致命）。<br>问题：</li><li>遇到具体问题时难以想出方法（实际问题解决欠缺），这就是算法方面的问题了吧</li><li>另一个就是时间问题，课程较多，学习时间不够充裕<br>学习成果：</li><li>这几天敲的代码是以前的好多倍（以前几乎不怎么敲吧）</li><li>自己在另外学python,感觉代码量真少</li></ol><hr><p>##第二章<br>内容</p><hr>]]></content>
+    <content type="html"><![CDATA[<pre><code>一周总结</code></pre><p>学习：<br>    1.Java的基本数据类包括byte(1位）,boolean(1位），short（2）,char(2),int(4),long(8),float(4),double(8)<br>                另外为引用类型的（数组，类，对象）<br>    2.语句与表达式这块与C差不多（选择分支（if,switch–case)，循环，）<br>        不同：for可以用于加强遍历<br>    3.在java中方法相当于函数（可以这么理解）<br>    4.类与对象这块太多了说不完，自己看代码效果更好吧。(类这块很重要)<br>    5.最头疼的来了，容器，很重要的东西。差不多会用吧，但底层理解有点困难。</p><pre><code>----</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;##第一章&lt;br&gt;内容&lt;br&gt;                               一周总结&lt;br&gt;学了什么：&lt;br&gt;    C方面：&lt;/p&gt;
+        &lt;pre&gt;&lt;code&gt;一周总结
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;学习：&lt;br&gt;    1.Java的基本数据类包括byte(1位）,boolean(1位），short（2）,char(2),int(4),long(8),float(4),double(8)&lt;br&gt;        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>&#39;my-first-post&#39;</title>
+    <link href="http://yoursite.com/2019/04/11/my-first-post/"/>
+    <id>http://yoursite.com/2019/04/11/my-first-post/</id>
+    <published>2019-04-11T12:19:11.000Z</published>
+    <updated>2019-04-26T02:24:39.869Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>一周总结</code></pre><p>学了什么：<br>    C方面：</p><ol><li>首先弥补了之前一直畏惧的循环链表，双向链表（原先只学了单链表），当然还没有具体的运用，基础操作学了。</li><li>其次呢，数据结构，目前树结构学完了，准备一边学图，一边加强运用（目前来说最欠缺的是不能灵活运用到实际问题中，很致命）。<br>问题：</li><li>遇到具体问题时难以想出方法（实际问题解决欠缺），这就是算法方面的问题了吧</li><li>另一个就是时间问题，课程较多，学习时间不够充裕<br>学习成果：</li><li>这几天敲的代码是以前的好多倍（以前几乎不怎么敲吧）</li><li>自己在另外学python,感觉代码量真少</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;一周总结
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;学了什么：&lt;br&gt;    C方面：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;首先弥补了之前一直畏惧的循环链表，双向链表（原先只学了单链表），当然还没有具体的运用，基础操作学了。&lt;/
+&lt;li&gt;首先弥补了之前一直畏惧的循环链表，双向链表（原先只学了单链表），当然还没有具体的运用，基础操作学了。&lt;/li&gt;
+&lt;li&gt;其次呢，数据结构，目前树结构学完了
       
     
     </summary>
